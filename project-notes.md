@@ -1,2 +1,5 @@
-Initial notes for the porject
-This is an update from the main
+<<<<<<< HEAD
+Initial notes for the project
+This is an update from main
+This is an update from feature-branch
+>>>>>>> feature-branch
