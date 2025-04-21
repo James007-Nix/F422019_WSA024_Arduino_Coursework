@@ -33,3 +33,5 @@ jobs:
             echo "❌ Task 1.4: No merge conflict resolution detected!"
             exit 1
           fi
+
+##task 1.2
