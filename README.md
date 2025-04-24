@@ -25,7 +25,7 @@ Automatic merge failed; fix conflicts and then commit the result.
 This message is displayed because of a conflict between both branches on the same lines. Git needs this to be fixed manually as it cannot decide which one is correct on its own. This is to prevetn accidental data loss. To fix it i opened project-notes.md and edited the file to resolve the conflict. I then typed in "git add project-notes.md" followed by "git commit -m "Resolved merge conflict in project-notes.md"". This creates a commit with the -m letting you leave a message which tells you what the commit is about. Then to finish it off i typed in "git push origin main". To prevent merge conflicts users must carry out frequent pulls as this allows users to stay up to date with other peoples work and prevents conflicts. To prevetn conflict before merging changes the best solution would be to pull the latest changes from the remote branch first and then merge. This helps to see if there are any conflicts early.
 
 ## Files within this Repositry
--This README.md fiel
+-This README.md file
 This contains my answers for 1.1 to 1.4 as well as other important notes required for this coursework
 
 -24WSA024 JNB Arduino Coursework Final 2025S2(V1) (2).ipynb
@@ -39,3 +39,6 @@ This is for task 3.5 and contains all the temperature taken over 3 minutes and i
 
 -Answers_31_to_34_for_coursework.ino and Sem2ArduinoCourTask4.ino
 These are the .ino files for the arduino code in task 3.1 to 3.4 and task 4.
+
+-F422019_Arduino_setup.jpg
+This is an image of the arduino, base shield and temperature sensor all conected and how the wiring is setup.
