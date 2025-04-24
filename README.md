@@ -32,8 +32,10 @@ This contains my answers for 1.1 to 1.4 as well as other important notes require
 This is the coursework opened in Google Colab and contains the code for the temperature sensor for each task as well as the majority of my answers for the coursework.
 
 -.github/workflows and project-notes.md
-These are the files from tasks 1.2 to 1.4
+These are the files from tasks 1.2 to 1.4. The .github folder cotains all the other files.
 
 -threeminstemperature.csv
 This is for task 3.5 and contains all the temperature taken over 3 minutes and is in the described layout from task 3.5 which is Time, Temperature, Frequency, Magnitude.
 
+-Answers_31_to_34_for_coursework.ino and Sem2ArduinoCourTask4.ino
+These are the .ino files for the arduino code in task 3.1 to 3.4 and task 4.
