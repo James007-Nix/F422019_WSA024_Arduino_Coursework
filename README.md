@@ -24,6 +24,11 @@ CONFLICT (add/add): Merge conflict in project-notes.md
 Automatic merge failed; fix conflicts and then commit the result.
 This message is displayed because of a conflict between both branches on the same lines. Git needs this to be fixed manually as it cannot decide which one is correct on its own. This is to prevetn accidental data loss. To fix it i opened project-notes.md and edited the file to resolve the conflict. I then typed in "git add project-notes.md" followed by "git commit -m "Resolved merge conflict in project-notes.md"". This creates a commit with the -m letting you leave a message which tells you what the commit is about. Then to finish it off i typed in "git push origin main". To prevent merge conflicts users must carry out frequent pulls as this allows users to stay up to date with other peoples work and prevents conflicts. To prevetn conflict before merging changes the best solution would be to pull the latest changes from the remote branch first and then merge. This helps to see if there are any conflicts early.
 
+## Task 3.6
+Within the graph showing the temperature change over the time period of 3 minutes the temperature had a peak of 19.98 and a minimum of 19.88. This means there was only a variation of 0.1 degrees. This is due to the fact it is room temperature and the temperature will not change much over the course of 3 minutes. The temperature did decrease over the time period as it began at 19.98 and towards the end of the 3 minutes it reached its lowest point of 19.88. There were points where the temperature would go up for a second but this is likely due to the temperature sensor as it is such a small change by increasing by 0.01 degrees.
+The graph showing magnitude against the frequency started at a large magnitude over 3500 when the frequency was. The magnitude rapidly dropped where it remained for the rest of the graph as the line remains flat. The magnitude did change but by very small amounts and the graph does not show this as the changes are so small.
+
+
 ## Files within this Repositry
 -This README.md file
 This contains my answers for 1.1 to 1.4 as well as other important notes required for this coursework
