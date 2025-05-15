@@ -44,4 +44,7 @@ These are the .ino files for the arduino code in task 3.1 to 3.4 and task 4.
 This is an image of the arduino, base shield and temperature sensor all conected and how the wiring is setup.
 
 -Magnitude against freq.png
-This is the graph generated through python code which shows the magnitude against the frequency
+This is the graph generated through python code which shows the magnitude against the frequency.
+
+-Temp against Time.jpeg
+This is the graph generated through python code which shows the Temperature over the time period of 3 minutes.
