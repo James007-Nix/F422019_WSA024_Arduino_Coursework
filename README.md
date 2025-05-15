@@ -42,3 +42,6 @@ These are the .ino files for the arduino code in task 3.1 to 3.4 and task 4.
 
 -F422019_Arduino_setup.jpg
 This is an image of the arduino, base shield and temperature sensor all conected and how the wiring is setup.
+
+-Magnitude against freq.png
+This is the graph generated through python code which shows the magnitude against the frequency
